@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Quicksand:wght@300..700&display=swap');
+#app {
+  font-family: 'Outfit', sans-serif;
+}
+.dark {
+  background-color: #0b1121;
+}
