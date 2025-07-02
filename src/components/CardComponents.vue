@@ -6,7 +6,7 @@
     });
 </script>
 <template>
-  <div class="card card-border dark:border-slate-900 dark:bg-slate-900 lg:w-2/2">
+  <div class="card card-border border-slate-300 hover: dark:border-slate-900 dark:bg-slate-900 lg:w-2/2 dark:hover:bg-slate-600 hover:bg-base-200">
     <div class="card-body">
       <h2 class="card-title">
         <svg
