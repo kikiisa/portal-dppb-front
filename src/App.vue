@@ -2,6 +2,7 @@
 import NavbarComponents from "./components/NavbarComponents.vue";
 import HeroComponents from "./components/HeroComponents.vue";
 import CardComponents from "./components/CardComponents.vue";
+import FooterComponents from "./components/FooterComponents.vue";
 </script>
 
 <template>
@@ -28,6 +29,7 @@ Rumah Data Kependudukan"
       />
       <!-- <CardComponents name="Tugas"/> -->
     </div>
+    <FooterComponents/>
   </main>
 </template>
 

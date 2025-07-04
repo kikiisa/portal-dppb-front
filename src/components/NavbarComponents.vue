@@ -26,8 +26,11 @@ onMounted(() => {
 </script>
 <template>
   <div class="mt-4 rounded-2xl p-3">
-    <div class="flex justify-between items-center">
-      <a class="btn btn-ghost normal-case text-xl text-center" href="/"> </a>
+    <div class="flex justify-between items-center dark:bg-slate-800 bg-base-200 p-3 rounded-2xl shadow-xl">
+      <a class="btn btn-ghost normal-case text-xl text-center dark:text-white" href="/">
+         <img width="40" src="../assets/logo-kemendukbangga.png" alt="logo-kemendukbangga">
+         <img width="40" src="../assets/bglimboto.png" alt="logo-gorontalo">
+      </a>
       <div class="theme-control">
         <label class="flex cursor-pointer gap-2">
           <svg
